@@ -8,13 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		AE2C1CFE1FE8B77500716849 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1CFD1FE8B77500716849 /* AppDelegate.m */; };
-		AE2C1D011FE8B77500716849 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D001FE8B77500716849 /* ViewController.m */; };
-		AE2C1D041FE8B77500716849 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE2C1D021FE8B77500716849 /* Main.storyboard */; };
 		AE2C1D061FE8B77500716849 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE2C1D051FE8B77500716849 /* Assets.xcassets */; };
 		AE2C1D091FE8B77500716849 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE2C1D071FE8B77500716849 /* LaunchScreen.storyboard */; };
 		AE2C1D0C1FE8B77500716849 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D0B1FE8B77500716849 /* main.m */; };
 		AE2C1D161FE8B77500716849 /* Push_PopAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D151FE8B77500716849 /* Push_PopAnimationTests.m */; };
 		AE2C1D211FE8B77500716849 /* Push_PopAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D201FE8B77500716849 /* Push_PopAnimationUITests.m */; };
+		AE2C1D5A1FE8B86600716849 /* DiscoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D311FE8B86500716849 /* DiscoverViewController.m */; };
+		AE2C1D5B1FE8B86600716849 /* DisTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D331FE8B86500716849 /* DisTwoViewController.m */; };
+		AE2C1D5C1FE8B86600716849 /* XYYScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D351FE8B86500716849 /* XYYScrollView.m */; };
+		AE2C1D5D1FE8B86600716849 /* MBProgressHUD+Add.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D391FE8B86500716849 /* MBProgressHUD+Add.m */; };
+		AE2C1D5E1FE8B86600716849 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D3B1FE8B86500716849 /* MBProgressHUD.m */; };
+		AE2C1D5F1FE8B86600716849 /* POPAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D3F1FE8B86500716849 /* POPAnimation.m */; };
+		AE2C1D601FE8B86600716849 /* PUSHAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D411FE8B86500716849 /* PUSHAnimation.m */; };
+		AE2C1D611FE8B86600716849 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D431FE8B86500716849 /* BaseViewController.m */; };
+		AE2C1D621FE8B86600716849 /* XYYBadgeView.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D461FE8B86500716849 /* XYYBadgeView.m */; };
+		AE2C1D631FE8B86600716849 /* XYYTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D481FE8B86500716849 /* XYYTabBar.m */; };
+		AE2C1D641FE8B86600716849 /* XYYTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D4A1FE8B86500716849 /* XYYTabBarButton.m */; };
+		AE2C1D651FE8B86600716849 /* button_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AE2C1D4D1FE8B86500716849 /* button_back@2x.png */; };
+		AE2C1D661FE8B86600716849 /* button_back@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AE2C1D4E1FE8B86500716849 /* button_back@3x.png */; };
+		AE2C1D671FE8B86600716849 /* UIButton+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D501FE8B86500716849 /* UIButton+Size.m */; };
+		AE2C1D681FE8B86600716849 /* XYYBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D521FE8B86500716849 /* XYYBarButtonItem.m */; };
+		AE2C1D691FE8B86600716849 /* XYYNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D541FE8B86500716849 /* XYYNavigationBar.m */; };
+		AE2C1D6A1FE8B86600716849 /* XYYNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D561FE8B86500716849 /* XYYNavigationController.m */; };
+		AE2C1D6B1FE8B86600716849 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D591FE8B86600716849 /* RootViewController.m */; };
+		AE2C1D7A1FE8B8B800716849 /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D6E1FE8B8B700716849 /* MineViewController.m */; };
+		AE2C1D7B1FE8B8B800716849 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D701FE8B8B700716849 /* SecondViewController.m */; };
+		AE2C1D7C1FE8B8B800716849 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D721FE8B8B700716849 /* ThirdViewController.m */; };
+		AE2C1D7D1FE8B8B800716849 /* HomeThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D751FE8B8B700716849 /* HomeThreeViewController.m */; };
+		AE2C1D7E1FE8B8B800716849 /* HomeTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D771FE8B8B700716849 /* HomeTwoViewController.m */; };
+		AE2C1D7F1FE8B8B800716849 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE2C1D791FE8B8B700716849 /* HomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,9 +60,6 @@
 		AE2C1CF91FE8B77500716849 /* Push-PopAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Push-PopAnimation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE2C1CFC1FE8B77500716849 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AE2C1CFD1FE8B77500716849 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		AE2C1CFF1FE8B77500716849 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AE2C1D001FE8B77500716849 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		AE2C1D031FE8B77500716849 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AE2C1D051FE8B77500716849 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE2C1D081FE8B77500716849 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE2C1D0A1FE8B77500716849 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +70,53 @@
 		AE2C1D1C1FE8B77500716849 /* Push-PopAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Push-PopAnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE2C1D201FE8B77500716849 /* Push_PopAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Push_PopAnimationUITests.m; sourceTree = "<group>"; };
 		AE2C1D221FE8B77500716849 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE2C1D2E1FE8B7DA00716849 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		AE2C1D301FE8B86500716849 /* DiscoverViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscoverViewController.h; sourceTree = "<group>"; };
+		AE2C1D311FE8B86500716849 /* DiscoverViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiscoverViewController.m; sourceTree = "<group>"; };
+		AE2C1D321FE8B86500716849 /* DisTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisTwoViewController.h; sourceTree = "<group>"; };
+		AE2C1D331FE8B86500716849 /* DisTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisTwoViewController.m; sourceTree = "<group>"; };
+		AE2C1D341FE8B86500716849 /* XYYScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYScrollView.h; sourceTree = "<group>"; };
+		AE2C1D351FE8B86500716849 /* XYYScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYScrollView.m; sourceTree = "<group>"; };
+		AE2C1D381FE8B86500716849 /* MBProgressHUD+Add.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD+Add.h"; sourceTree = "<group>"; };
+		AE2C1D391FE8B86500716849 /* MBProgressHUD+Add.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+Add.m"; sourceTree = "<group>"; };
+		AE2C1D3A1FE8B86500716849 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		AE2C1D3B1FE8B86500716849 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		AE2C1D3E1FE8B86500716849 /* POPAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POPAnimation.h; sourceTree = "<group>"; };
+		AE2C1D3F1FE8B86500716849 /* POPAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = POPAnimation.m; sourceTree = "<group>"; };
+		AE2C1D401FE8B86500716849 /* PUSHAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PUSHAnimation.h; sourceTree = "<group>"; };
+		AE2C1D411FE8B86500716849 /* PUSHAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PUSHAnimation.m; sourceTree = "<group>"; };
+		AE2C1D421FE8B86500716849 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		AE2C1D431FE8B86500716849 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		AE2C1D451FE8B86500716849 /* XYYBadgeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYBadgeView.h; sourceTree = "<group>"; };
+		AE2C1D461FE8B86500716849 /* XYYBadgeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYBadgeView.m; sourceTree = "<group>"; };
+		AE2C1D471FE8B86500716849 /* XYYTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYTabBar.h; sourceTree = "<group>"; };
+		AE2C1D481FE8B86500716849 /* XYYTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYTabBar.m; sourceTree = "<group>"; };
+		AE2C1D491FE8B86500716849 /* XYYTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYTabBarButton.h; sourceTree = "<group>"; };
+		AE2C1D4A1FE8B86500716849 /* XYYTabBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYTabBarButton.m; sourceTree = "<group>"; };
+		AE2C1D4D1FE8B86500716849 /* button_back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_back@2x.png"; sourceTree = "<group>"; };
+		AE2C1D4E1FE8B86500716849 /* button_back@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_back@3x.png"; sourceTree = "<group>"; };
+		AE2C1D4F1FE8B86500716849 /* UIButton+Size.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Size.h"; sourceTree = "<group>"; };
+		AE2C1D501FE8B86500716849 /* UIButton+Size.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Size.m"; sourceTree = "<group>"; };
+		AE2C1D511FE8B86500716849 /* XYYBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYBarButtonItem.h; sourceTree = "<group>"; };
+		AE2C1D521FE8B86500716849 /* XYYBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYBarButtonItem.m; sourceTree = "<group>"; };
+		AE2C1D531FE8B86500716849 /* XYYNavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYNavigationBar.h; sourceTree = "<group>"; };
+		AE2C1D541FE8B86500716849 /* XYYNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYNavigationBar.m; sourceTree = "<group>"; };
+		AE2C1D551FE8B86500716849 /* XYYNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYYNavigationController.h; sourceTree = "<group>"; };
+		AE2C1D561FE8B86500716849 /* XYYNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYYNavigationController.m; sourceTree = "<group>"; };
+		AE2C1D581FE8B86600716849 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		AE2C1D591FE8B86600716849 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		AE2C1D6D1FE8B8B700716849 /* MineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MineViewController.h; sourceTree = "<group>"; };
+		AE2C1D6E1FE8B8B700716849 /* MineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MineViewController.m; sourceTree = "<group>"; };
+		AE2C1D6F1FE8B8B700716849 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		AE2C1D701FE8B8B700716849 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		AE2C1D711FE8B8B700716849 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		AE2C1D721FE8B8B700716849 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		AE2C1D741FE8B8B700716849 /* HomeThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeThreeViewController.h; sourceTree = "<group>"; };
+		AE2C1D751FE8B8B700716849 /* HomeThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeThreeViewController.m; sourceTree = "<group>"; };
+		AE2C1D761FE8B8B700716849 /* HomeTwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTwoViewController.h; sourceTree = "<group>"; };
+		AE2C1D771FE8B8B700716849 /* HomeTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTwoViewController.m; sourceTree = "<group>"; };
+		AE2C1D781FE8B8B700716849 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		AE2C1D791FE8B8B700716849 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,15 +167,20 @@
 		AE2C1CFB1FE8B77500716849 /* Push-PopAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				AE2C1D3C1FE8B86500716849 /* BaseViewController */,
+				AE2C1D4B1FE8B86500716849 /* XYNavigationController */,
 				AE2C1CFC1FE8B77500716849 /* AppDelegate.h */,
 				AE2C1CFD1FE8B77500716849 /* AppDelegate.m */,
-				AE2C1CFF1FE8B77500716849 /* ViewController.h */,
-				AE2C1D001FE8B77500716849 /* ViewController.m */,
-				AE2C1D021FE8B77500716849 /* Main.storyboard */,
+				AE2C1D571FE8B86600716849 /* ROOT */,
+				AE2C1D731FE8B8B700716849 /* HOME */,
+				AE2C1D2F1FE8B86500716849 /* DISCOVER */,
+				AE2C1D6C1FE8B8B700716849 /* MINE */,
+				AE2C1D361FE8B86500716849 /* MBProgressHUD */,
 				AE2C1D051FE8B77500716849 /* Assets.xcassets */,
 				AE2C1D071FE8B77500716849 /* LaunchScreen.storyboard */,
 				AE2C1D0A1FE8B77500716849 /* Info.plist */,
 				AE2C1D0B1FE8B77500716849 /* main.m */,
+				AE2C1D2E1FE8B7DA00716849 /* PrefixHeader.pch */,
 			);
 			path = "Push-PopAnimation";
 			sourceTree = "<group>";
@@ -130,6 +201,133 @@
 				AE2C1D221FE8B77500716849 /* Info.plist */,
 			);
 			path = "Push-PopAnimationUITests";
+			sourceTree = "<group>";
+		};
+		AE2C1D2F1FE8B86500716849 /* DISCOVER */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D301FE8B86500716849 /* DiscoverViewController.h */,
+				AE2C1D311FE8B86500716849 /* DiscoverViewController.m */,
+				AE2C1D321FE8B86500716849 /* DisTwoViewController.h */,
+				AE2C1D331FE8B86500716849 /* DisTwoViewController.m */,
+				AE2C1D341FE8B86500716849 /* XYYScrollView.h */,
+				AE2C1D351FE8B86500716849 /* XYYScrollView.m */,
+			);
+			path = DISCOVER;
+			sourceTree = "<group>";
+		};
+		AE2C1D361FE8B86500716849 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D371FE8B86500716849 /* MBProgressHUD+Add */,
+				AE2C1D3A1FE8B86500716849 /* MBProgressHUD.h */,
+				AE2C1D3B1FE8B86500716849 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		AE2C1D371FE8B86500716849 /* MBProgressHUD+Add */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D381FE8B86500716849 /* MBProgressHUD+Add.h */,
+				AE2C1D391FE8B86500716849 /* MBProgressHUD+Add.m */,
+			);
+			path = "MBProgressHUD+Add";
+			sourceTree = "<group>";
+		};
+		AE2C1D3C1FE8B86500716849 /* BaseViewController */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D3D1FE8B86500716849 /* Animation */,
+				AE2C1D421FE8B86500716849 /* BaseViewController.h */,
+				AE2C1D431FE8B86500716849 /* BaseViewController.m */,
+				AE2C1D441FE8B86500716849 /* TabBar */,
+			);
+			path = BaseViewController;
+			sourceTree = "<group>";
+		};
+		AE2C1D3D1FE8B86500716849 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D3E1FE8B86500716849 /* POPAnimation.h */,
+				AE2C1D3F1FE8B86500716849 /* POPAnimation.m */,
+				AE2C1D401FE8B86500716849 /* PUSHAnimation.h */,
+				AE2C1D411FE8B86500716849 /* PUSHAnimation.m */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
+		AE2C1D441FE8B86500716849 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D451FE8B86500716849 /* XYYBadgeView.h */,
+				AE2C1D461FE8B86500716849 /* XYYBadgeView.m */,
+				AE2C1D471FE8B86500716849 /* XYYTabBar.h */,
+				AE2C1D481FE8B86500716849 /* XYYTabBar.m */,
+				AE2C1D491FE8B86500716849 /* XYYTabBarButton.h */,
+				AE2C1D4A1FE8B86500716849 /* XYYTabBarButton.m */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		AE2C1D4B1FE8B86500716849 /* XYNavigationController */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D4C1FE8B86500716849 /* image */,
+				AE2C1D4F1FE8B86500716849 /* UIButton+Size.h */,
+				AE2C1D501FE8B86500716849 /* UIButton+Size.m */,
+				AE2C1D511FE8B86500716849 /* XYYBarButtonItem.h */,
+				AE2C1D521FE8B86500716849 /* XYYBarButtonItem.m */,
+				AE2C1D531FE8B86500716849 /* XYYNavigationBar.h */,
+				AE2C1D541FE8B86500716849 /* XYYNavigationBar.m */,
+				AE2C1D551FE8B86500716849 /* XYYNavigationController.h */,
+				AE2C1D561FE8B86500716849 /* XYYNavigationController.m */,
+			);
+			path = XYNavigationController;
+			sourceTree = "<group>";
+		};
+		AE2C1D4C1FE8B86500716849 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D4D1FE8B86500716849 /* button_back@2x.png */,
+				AE2C1D4E1FE8B86500716849 /* button_back@3x.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		AE2C1D571FE8B86600716849 /* ROOT */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D581FE8B86600716849 /* RootViewController.h */,
+				AE2C1D591FE8B86600716849 /* RootViewController.m */,
+			);
+			path = ROOT;
+			sourceTree = "<group>";
+		};
+		AE2C1D6C1FE8B8B700716849 /* MINE */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D6D1FE8B8B700716849 /* MineViewController.h */,
+				AE2C1D6E1FE8B8B700716849 /* MineViewController.m */,
+				AE2C1D6F1FE8B8B700716849 /* SecondViewController.h */,
+				AE2C1D701FE8B8B700716849 /* SecondViewController.m */,
+				AE2C1D711FE8B8B700716849 /* ThirdViewController.h */,
+				AE2C1D721FE8B8B700716849 /* ThirdViewController.m */,
+			);
+			path = MINE;
+			sourceTree = "<group>";
+		};
+		AE2C1D731FE8B8B700716849 /* HOME */ = {
+			isa = PBXGroup;
+			children = (
+				AE2C1D741FE8B8B700716849 /* HomeThreeViewController.h */,
+				AE2C1D751FE8B8B700716849 /* HomeThreeViewController.m */,
+				AE2C1D761FE8B8B700716849 /* HomeTwoViewController.h */,
+				AE2C1D771FE8B8B700716849 /* HomeTwoViewController.m */,
+				AE2C1D781FE8B8B700716849 /* HomeViewController.h */,
+				AE2C1D791FE8B8B700716849 /* HomeViewController.m */,
+			);
+			path = HOME;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,9 +436,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE2C1D661FE8B86600716849 /* button_back@3x.png in Resources */,
 				AE2C1D091FE8B77500716849 /* LaunchScreen.storyboard in Resources */,
 				AE2C1D061FE8B77500716849 /* Assets.xcassets in Resources */,
-				AE2C1D041FE8B77500716849 /* Main.storyboard in Resources */,
+				AE2C1D651FE8B86600716849 /* button_back@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,9 +464,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE2C1D011FE8B77500716849 /* ViewController.m in Sources */,
+				AE2C1D7B1FE8B8B800716849 /* SecondViewController.m in Sources */,
+				AE2C1D5F1FE8B86600716849 /* POPAnimation.m in Sources */,
+				AE2C1D611FE8B86600716849 /* BaseViewController.m in Sources */,
+				AE2C1D601FE8B86600716849 /* PUSHAnimation.m in Sources */,
 				AE2C1D0C1FE8B77500716849 /* main.m in Sources */,
+				AE2C1D5D1FE8B86600716849 /* MBProgressHUD+Add.m in Sources */,
+				AE2C1D5A1FE8B86600716849 /* DiscoverViewController.m in Sources */,
+				AE2C1D7A1FE8B8B800716849 /* MineViewController.m in Sources */,
+				AE2C1D641FE8B86600716849 /* XYYTabBarButton.m in Sources */,
+				AE2C1D621FE8B86600716849 /* XYYBadgeView.m in Sources */,
+				AE2C1D7D1FE8B8B800716849 /* HomeThreeViewController.m in Sources */,
+				AE2C1D681FE8B86600716849 /* XYYBarButtonItem.m in Sources */,
+				AE2C1D5B1FE8B86600716849 /* DisTwoViewController.m in Sources */,
+				AE2C1D631FE8B86600716849 /* XYYTabBar.m in Sources */,
 				AE2C1CFE1FE8B77500716849 /* AppDelegate.m in Sources */,
+				AE2C1D691FE8B86600716849 /* XYYNavigationBar.m in Sources */,
+				AE2C1D5C1FE8B86600716849 /* XYYScrollView.m in Sources */,
+				AE2C1D6B1FE8B86600716849 /* RootViewController.m in Sources */,
+				AE2C1D671FE8B86600716849 /* UIButton+Size.m in Sources */,
+				AE2C1D5E1FE8B86600716849 /* MBProgressHUD.m in Sources */,
+				AE2C1D6A1FE8B86600716849 /* XYYNavigationController.m in Sources */,
+				AE2C1D7E1FE8B8B800716849 /* HomeTwoViewController.m in Sources */,
+				AE2C1D7C1FE8B8B800716849 /* ThirdViewController.m in Sources */,
+				AE2C1D7F1FE8B8B800716849 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,14 +523,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		AE2C1D021FE8B77500716849 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AE2C1D031FE8B77500716849 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		AE2C1D071FE8B77500716849 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -431,9 +643,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8PAYVXSWCM;
+				GCC_PREFIX_HEADER = "/Users/forfarming/Desktop/Push-PopAnimation/Push-PopAnimation/PrefixHeader.pch";
 				INFOPLIST_FILE = "Push-PopAnimation/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.xyy.Push-PopAnimation";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xyy.PushPopAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -444,9 +659,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8PAYVXSWCM;
+				GCC_PREFIX_HEADER = "/Users/forfarming/Desktop/Push-PopAnimation/Push-PopAnimation/PrefixHeader.pch";
 				INFOPLIST_FILE = "Push-PopAnimation/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.xyy.Push-PopAnimation";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xyy.PushPopAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

@@ -1,0 +1,26 @@
+//
+//  PrefixHeader.pch
+//  Push-PopAnimation
+//
+//  Created by  Forfarming on 2017/12/19.
+//  Copyright © 2017年  Forfarming. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "XYYNavigationBar.h"
+
+#ifdef DEBUG
+#   define NSLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#   define NSLog(...)
+#endif
+
+#define SCREEN_WIDTH   [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT  [UIScreen mainScreen].bounds.size.height
+#define iPhoneX (ScreenWidth == 375.f && ScreenHeight == 812.f ? YES : NO)
+#define GlobalNavHeight ([[UIScreen mainScreen] bounds].size.height == 812.0 ? 88 : 64)
+#define SafeAreaBottomHeight ([[UIScreen mainScreen] bounds].size.height == 812.0 ? 34 : 0)
+
+#endif /* PrefixHeader_pch */
